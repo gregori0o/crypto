@@ -4,7 +4,7 @@ Cryptography course at AGH University in 2023.
 
 ## Laboratories
 
-1. [SHA3](labs/)
+1. [SHA3](labs/Kryptografia_1.ipynb)
 
 ## Project
 
