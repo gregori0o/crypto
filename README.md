@@ -9,6 +9,7 @@ Cryptography course at AGH University in 2023.
 3. [RSA](labs/Kryptografia_3.ipynb)
 4. [Eliptic Curve](labs/Kryptografia_4.ipynb)
 5. [Post-quantum HBC](labs/Kryptografia_5.ipynb)
+6. [Vernam and Schnorr](labs/Kryptografia_6.ipynb)
 
 ## Project
 
